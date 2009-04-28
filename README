@@ -1,7 +1,7 @@
 Permissable
 ===========
 
-Introduction goes here.
+Plugin providing a simple permissions API for Rails. This is extracted from an app and in very, very rough shape. Will be useful once it's polished up for general consumption.
 
 
 Example
@@ -10,4 +10,4 @@ Example
 Example goes here.
 
 
-Copyright (c) 2008 [name of plugin creator], released under the MIT license
+Copyright (c) 2008 Rich Cavanaugh, released under the MIT license
